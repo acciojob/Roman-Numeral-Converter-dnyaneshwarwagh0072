@@ -19,5 +19,5 @@ function convertToRoman(num) {
   
   return roman;
 }
-
+console.log(convertToRoman(36));  
 module.exports = convertToRoman;
