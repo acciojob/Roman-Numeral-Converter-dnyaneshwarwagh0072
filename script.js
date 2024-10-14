@@ -42,5 +42,5 @@ function convertToRoman(num) {
 
     return result;
 }
-console.log(convertToRoman(798));
+console.log(convertToRoman(36));
 module.exports = convertToRoman;
