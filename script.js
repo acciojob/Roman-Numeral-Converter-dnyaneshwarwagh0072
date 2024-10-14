@@ -43,3 +43,4 @@ function convertToRoman(num) {
     return result;
 }
 console.log(convertToRoman(798));
+module.exports = convertToRoman;
